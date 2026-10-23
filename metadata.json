@@ -1,0 +1,6 @@
+{
+  "name": "RATIOVERSE: Petualangan Rasio",
+  "description": "Game edukasi 3D dunia virtual penjelajahan Matematika Kelas VI SD tentang Rasio, Rasio Senilai, Rasio Satuan, dan Proporsi dengan Pendekatan Pembelajaran Mendalam dan Asesmen KKTP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
